@@ -1,7 +1,8 @@
-Finding Data
-Found data 
+Finding Data:
+Where and what was the found data?
 
-Data Cleanup & Analysis
+Data Cleanup & Analysis:
+What steps were taking in the data cleanup prcoess. 
 
 Project Report
 - Submit Final Report that describes following:
